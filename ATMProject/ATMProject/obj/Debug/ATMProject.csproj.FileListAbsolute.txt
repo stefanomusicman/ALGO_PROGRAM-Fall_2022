@@ -1,0 +1,8 @@
+C:\Users\stefp\source\repos\fall2022\420-AP1-AS\ATMProject\ATMProject\bin\Debug\ATMProject.exe.config
+C:\Users\stefp\source\repos\fall2022\420-AP1-AS\ATMProject\ATMProject\bin\Debug\ATMProject.exe
+C:\Users\stefp\source\repos\fall2022\420-AP1-AS\ATMProject\ATMProject\bin\Debug\ATMProject.pdb
+C:\Users\stefp\source\repos\fall2022\420-AP1-AS\ATMProject\ATMProject\obj\Debug\ATMProject.csproj.AssemblyReference.cache
+C:\Users\stefp\source\repos\fall2022\420-AP1-AS\ATMProject\ATMProject\obj\Debug\ATMProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\stefp\source\repos\fall2022\420-AP1-AS\ATMProject\ATMProject\obj\Debug\ATMProject.csproj.CoreCompileInputs.cache
+C:\Users\stefp\source\repos\fall2022\420-AP1-AS\ATMProject\ATMProject\obj\Debug\ATMProject.exe
+C:\Users\stefp\source\repos\fall2022\420-AP1-AS\ATMProject\ATMProject\obj\Debug\ATMProject.pdb

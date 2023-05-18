@@ -1,0 +1,40 @@
+CP001
+Michael Scott
+dunder1
+5000
+CP002
+Jim Halpert
+dunder2
+10000
+CP003
+Dwight Schrute
+dunder3
+7500
+CP004
+Pam Beelsy
+dunder4
+6000
+CP005
+Creed Bratton
+dunder5
+200
+CP006
+Kevin Malone
+dunder6
+1000
+CP007
+Stanley Hudson
+dunder7
+8000
+CP008
+Phyllis Lappen
+dunder8
+6500
+CP009
+Ryan Howard
+dunder9
+3000
+CP010
+Kelly Kapour
+dunder10
+1500

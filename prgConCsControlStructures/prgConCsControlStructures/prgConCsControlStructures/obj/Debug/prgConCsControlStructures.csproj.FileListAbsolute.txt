@@ -1,0 +1,8 @@
+C:\Users\stefp\source\repos\fall2022\420-AP1-AS\prgConCsControlStructures\prgConCsControlStructures\prgConCsControlStructures\bin\Debug\prgConCsControlStructures.exe.config
+C:\Users\stefp\source\repos\fall2022\420-AP1-AS\prgConCsControlStructures\prgConCsControlStructures\prgConCsControlStructures\bin\Debug\prgConCsControlStructures.exe
+C:\Users\stefp\source\repos\fall2022\420-AP1-AS\prgConCsControlStructures\prgConCsControlStructures\prgConCsControlStructures\bin\Debug\prgConCsControlStructures.pdb
+C:\Users\stefp\source\repos\fall2022\420-AP1-AS\prgConCsControlStructures\prgConCsControlStructures\prgConCsControlStructures\obj\Debug\prgConCsControlStructures.csproj.AssemblyReference.cache
+C:\Users\stefp\source\repos\fall2022\420-AP1-AS\prgConCsControlStructures\prgConCsControlStructures\prgConCsControlStructures\obj\Debug\prgConCsControlStructures.csproj.SuggestedBindingRedirects.cache
+C:\Users\stefp\source\repos\fall2022\420-AP1-AS\prgConCsControlStructures\prgConCsControlStructures\prgConCsControlStructures\obj\Debug\prgConCsControlStructures.csproj.CoreCompileInputs.cache
+C:\Users\stefp\source\repos\fall2022\420-AP1-AS\prgConCsControlStructures\prgConCsControlStructures\prgConCsControlStructures\obj\Debug\prgConCsControlStructures.exe
+C:\Users\stefp\source\repos\fall2022\420-AP1-AS\prgConCsControlStructures\prgConCsControlStructures\prgConCsControlStructures\obj\Debug\prgConCsControlStructures.pdb

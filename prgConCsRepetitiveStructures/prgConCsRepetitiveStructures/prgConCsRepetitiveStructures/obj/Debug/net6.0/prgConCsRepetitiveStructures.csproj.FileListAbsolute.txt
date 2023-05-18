@@ -1,0 +1,15 @@
+C:\Users\stefp\source\repos\fall2022\420-AP1-AS\prgConCsRepetitiveStructures\prgConCsRepetitiveStructures\prgConCsRepetitiveStructures\bin\Debug\net6.0\prgConCsRepetitiveStructures.exe
+C:\Users\stefp\source\repos\fall2022\420-AP1-AS\prgConCsRepetitiveStructures\prgConCsRepetitiveStructures\prgConCsRepetitiveStructures\bin\Debug\net6.0\prgConCsRepetitiveStructures.deps.json
+C:\Users\stefp\source\repos\fall2022\420-AP1-AS\prgConCsRepetitiveStructures\prgConCsRepetitiveStructures\prgConCsRepetitiveStructures\bin\Debug\net6.0\prgConCsRepetitiveStructures.runtimeconfig.json
+C:\Users\stefp\source\repos\fall2022\420-AP1-AS\prgConCsRepetitiveStructures\prgConCsRepetitiveStructures\prgConCsRepetitiveStructures\bin\Debug\net6.0\prgConCsRepetitiveStructures.dll
+C:\Users\stefp\source\repos\fall2022\420-AP1-AS\prgConCsRepetitiveStructures\prgConCsRepetitiveStructures\prgConCsRepetitiveStructures\bin\Debug\net6.0\prgConCsRepetitiveStructures.pdb
+C:\Users\stefp\source\repos\fall2022\420-AP1-AS\prgConCsRepetitiveStructures\prgConCsRepetitiveStructures\prgConCsRepetitiveStructures\obj\Debug\net6.0\prgConCsRepetitiveStructures.csproj.AssemblyReference.cache
+C:\Users\stefp\source\repos\fall2022\420-AP1-AS\prgConCsRepetitiveStructures\prgConCsRepetitiveStructures\prgConCsRepetitiveStructures\obj\Debug\net6.0\prgConCsRepetitiveStructures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stefp\source\repos\fall2022\420-AP1-AS\prgConCsRepetitiveStructures\prgConCsRepetitiveStructures\prgConCsRepetitiveStructures\obj\Debug\net6.0\prgConCsRepetitiveStructures.AssemblyInfoInputs.cache
+C:\Users\stefp\source\repos\fall2022\420-AP1-AS\prgConCsRepetitiveStructures\prgConCsRepetitiveStructures\prgConCsRepetitiveStructures\obj\Debug\net6.0\prgConCsRepetitiveStructures.AssemblyInfo.cs
+C:\Users\stefp\source\repos\fall2022\420-AP1-AS\prgConCsRepetitiveStructures\prgConCsRepetitiveStructures\prgConCsRepetitiveStructures\obj\Debug\net6.0\prgConCsRepetitiveStructures.csproj.CoreCompileInputs.cache
+C:\Users\stefp\source\repos\fall2022\420-AP1-AS\prgConCsRepetitiveStructures\prgConCsRepetitiveStructures\prgConCsRepetitiveStructures\obj\Debug\net6.0\prgConCsRepetitiveStructures.dll
+C:\Users\stefp\source\repos\fall2022\420-AP1-AS\prgConCsRepetitiveStructures\prgConCsRepetitiveStructures\prgConCsRepetitiveStructures\obj\Debug\net6.0\refint\prgConCsRepetitiveStructures.dll
+C:\Users\stefp\source\repos\fall2022\420-AP1-AS\prgConCsRepetitiveStructures\prgConCsRepetitiveStructures\prgConCsRepetitiveStructures\obj\Debug\net6.0\prgConCsRepetitiveStructures.pdb
+C:\Users\stefp\source\repos\fall2022\420-AP1-AS\prgConCsRepetitiveStructures\prgConCsRepetitiveStructures\prgConCsRepetitiveStructures\obj\Debug\net6.0\prgConCsRepetitiveStructures.genruntimeconfig.cache
+C:\Users\stefp\source\repos\fall2022\420-AP1-AS\prgConCsRepetitiveStructures\prgConCsRepetitiveStructures\prgConCsRepetitiveStructures\obj\Debug\net6.0\ref\prgConCsRepetitiveStructures.dll

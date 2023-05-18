@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "prgConCsControlStructures", "prgConCsControlStructures\prgConCsControlStructures.csproj", "{96A506C1-ACAF-474C-BCED-B9054410BD63}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96A506C1-ACAF-474C-BCED-B9054410BD63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96A506C1-ACAF-474C-BCED-B9054410BD63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96A506C1-ACAF-474C-BCED-B9054410BD63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96A506C1-ACAF-474C-BCED-B9054410BD63}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C877EC9C-3E66-40F2-93B3-13761A04A072}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,16 @@
+st001
+Bill Gates
+WEB
+95
+st002
+Steve Jobs
+MOBILE
+90
+st003
+Sophie Marceau
+GAMING
+85
+st004
+Helene Cote
+MOBILE
+45

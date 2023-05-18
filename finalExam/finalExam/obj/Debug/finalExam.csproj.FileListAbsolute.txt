@@ -1,0 +1,8 @@
+C:\Users\stefp\source\repos\fall2022\420-AP1-AS\finalExam\finalExam\obj\Debug\finalExam.csproj.AssemblyReference.cache
+C:\Users\stefp\source\repos\fall2022\420-AP1-AS\finalExam\finalExam\obj\Debug\finalExam.csproj.SuggestedBindingRedirects.cache
+C:\Users\stefp\source\repos\fall2022\420-AP1-AS\finalExam\finalExam\obj\Debug\finalExam.csproj.CoreCompileInputs.cache
+C:\Users\stefp\source\repos\fall2022\420-AP1-AS\finalExam\finalExam\bin\Debug\finalExam.exe.config
+C:\Users\stefp\source\repos\fall2022\420-AP1-AS\finalExam\finalExam\bin\Debug\finalExam.exe
+C:\Users\stefp\source\repos\fall2022\420-AP1-AS\finalExam\finalExam\bin\Debug\finalExam.pdb
+C:\Users\stefp\source\repos\fall2022\420-AP1-AS\finalExam\finalExam\obj\Debug\finalExam.exe
+C:\Users\stefp\source\repos\fall2022\420-AP1-AS\finalExam\finalExam\obj\Debug\finalExam.pdb

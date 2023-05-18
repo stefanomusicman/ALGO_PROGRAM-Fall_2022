@@ -1,0 +1,8 @@
+C:\Users\stefp\source\repos\fall2022\420-AP1-AS\prgConCsCalculatorProject\prgConCsCalculatorProject\bin\Debug\prgConCsCalculatorProject.exe.config
+C:\Users\stefp\source\repos\fall2022\420-AP1-AS\prgConCsCalculatorProject\prgConCsCalculatorProject\bin\Debug\prgConCsCalculatorProject.exe
+C:\Users\stefp\source\repos\fall2022\420-AP1-AS\prgConCsCalculatorProject\prgConCsCalculatorProject\bin\Debug\prgConCsCalculatorProject.pdb
+C:\Users\stefp\source\repos\fall2022\420-AP1-AS\prgConCsCalculatorProject\prgConCsCalculatorProject\obj\Debug\prgConCsCalculatorProject.csproj.AssemblyReference.cache
+C:\Users\stefp\source\repos\fall2022\420-AP1-AS\prgConCsCalculatorProject\prgConCsCalculatorProject\obj\Debug\prgConCsCalculatorProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\stefp\source\repos\fall2022\420-AP1-AS\prgConCsCalculatorProject\prgConCsCalculatorProject\obj\Debug\prgConCsCalculatorProject.csproj.CoreCompileInputs.cache
+C:\Users\stefp\source\repos\fall2022\420-AP1-AS\prgConCsCalculatorProject\prgConCsCalculatorProject\obj\Debug\prgConCsCalculatorProject.exe
+C:\Users\stefp\source\repos\fall2022\420-AP1-AS\prgConCsCalculatorProject\prgConCsCalculatorProject\obj\Debug\prgConCsCalculatorProject.pdb

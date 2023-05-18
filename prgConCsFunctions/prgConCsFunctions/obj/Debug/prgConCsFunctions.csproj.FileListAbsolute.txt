@@ -1,0 +1,8 @@
+C:\Users\stefp\source\repos\fall2022\420-AP1-AS\prgConCsFunctions\prgConCsFunctions\obj\Debug\prgConCsFunctions.csproj.AssemblyReference.cache
+C:\Users\stefp\source\repos\fall2022\420-AP1-AS\prgConCsFunctions\prgConCsFunctions\obj\Debug\prgConCsFunctions.csproj.SuggestedBindingRedirects.cache
+C:\Users\stefp\source\repos\fall2022\420-AP1-AS\prgConCsFunctions\prgConCsFunctions\obj\Debug\prgConCsFunctions.csproj.CoreCompileInputs.cache
+C:\Users\stefp\source\repos\fall2022\420-AP1-AS\prgConCsFunctions\prgConCsFunctions\bin\Debug\prgConCsFunctions.exe.config
+C:\Users\stefp\source\repos\fall2022\420-AP1-AS\prgConCsFunctions\prgConCsFunctions\bin\Debug\prgConCsFunctions.exe
+C:\Users\stefp\source\repos\fall2022\420-AP1-AS\prgConCsFunctions\prgConCsFunctions\bin\Debug\prgConCsFunctions.pdb
+C:\Users\stefp\source\repos\fall2022\420-AP1-AS\prgConCsFunctions\prgConCsFunctions\obj\Debug\prgConCsFunctions.exe
+C:\Users\stefp\source\repos\fall2022\420-AP1-AS\prgConCsFunctions\prgConCsFunctions\obj\Debug\prgConCsFunctions.pdb

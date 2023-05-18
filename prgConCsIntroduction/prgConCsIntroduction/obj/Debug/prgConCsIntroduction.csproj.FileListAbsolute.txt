@@ -1,0 +1,8 @@
+C:\Users\stefp\source\repos\fall2022\420-AP1-AS\prgConCsIntroduction\prgConCsIntroduction\bin\Debug\prgConCsIntroduction.exe.config
+C:\Users\stefp\source\repos\fall2022\420-AP1-AS\prgConCsIntroduction\prgConCsIntroduction\bin\Debug\prgConCsIntroduction.exe
+C:\Users\stefp\source\repos\fall2022\420-AP1-AS\prgConCsIntroduction\prgConCsIntroduction\bin\Debug\prgConCsIntroduction.pdb
+C:\Users\stefp\source\repos\fall2022\420-AP1-AS\prgConCsIntroduction\prgConCsIntroduction\obj\Debug\prgConCsIntroduction.csproj.AssemblyReference.cache
+C:\Users\stefp\source\repos\fall2022\420-AP1-AS\prgConCsIntroduction\prgConCsIntroduction\obj\Debug\prgConCsIntroduction.csproj.SuggestedBindingRedirects.cache
+C:\Users\stefp\source\repos\fall2022\420-AP1-AS\prgConCsIntroduction\prgConCsIntroduction\obj\Debug\prgConCsIntroduction.csproj.CoreCompileInputs.cache
+C:\Users\stefp\source\repos\fall2022\420-AP1-AS\prgConCsIntroduction\prgConCsIntroduction\obj\Debug\prgConCsIntroduction.exe
+C:\Users\stefp\source\repos\fall2022\420-AP1-AS\prgConCsIntroduction\prgConCsIntroduction\obj\Debug\prgConCsIntroduction.pdb
